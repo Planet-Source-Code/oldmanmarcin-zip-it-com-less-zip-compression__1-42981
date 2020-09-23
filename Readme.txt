@@ -1,0 +1,3 @@
+ZIP-it : COM->less ZIP Compression
+Zip-it is an example program that uses JAVA Class to compress multiple files into
+ZIP file. Zip file created is compatible with ZIP format and can be opened by WINZIP , WINRar etc. Program does not shell out in order to compress the files instead Java Class object reference is created inside VB program. Only compress function is supported right now.. but if there is demand for it I can write de-compress code as well. Enjoy

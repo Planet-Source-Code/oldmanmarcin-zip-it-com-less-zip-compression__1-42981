@@ -1,0 +1,10 @@
+Hey...
+Before running the program you  have to install the Java Class on your computer.
+To do that simply copy ZipFunctions.class file to your system directory:
+<System Directory>\Java\trustlib 
+example:
+c:\winnt\Java\trustlib , c:\windows\Java\trustlib  or c:\winCrash2000\Java\trustlib 
+
+So when you distribute a program that uses this method make sure you copy this file using your installation program.
+
+Questions? E-mail me: mpasek@polaccess.com
